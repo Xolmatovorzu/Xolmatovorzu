@@ -1,4 +1,4 @@
-Bu yerda uyning narxlarini bashorat qiliuvchi dastur sinov uchun tuzilgan
+Bu yerda binolarning sarflagan energiyalarini bashorat qiliuvchi dastur sinov uchun tuzilgan
 <!---
 Xolmatovorzu/Xolmatovorzu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
